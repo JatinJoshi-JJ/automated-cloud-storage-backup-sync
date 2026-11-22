@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+restored_files/
+sync_state.json
+.env

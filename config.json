@@ -1,0 +1,9 @@
+{
+  "s3_endpoint": "http://127.0.0.1:5000",
+  "region": "ap-south-1",
+  "bucket_name": "codenova-backup-vault-2026",
+  "local_source_dir": "./local_data",
+  "restore_dir": "./restored_files",
+  "state_file": "./sync_state.json",
+  "presigned_expiry_seconds": 10
+}
