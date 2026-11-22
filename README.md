@@ -144,19 +144,15 @@ The automated verification suite validates all acceptance criteria across three 
 
 ![Delta Sync Execution](./screenshots/delta-sync-execution.png)
 
-### 2. Cloud Bucket Inventory & Custom SHA-256 Metadata
+### 2. Cloud Bucket Inventory, Metadata & Pre-Signed URL Expiration
 
-![S3 Metadata Inventory](./screenshots/s3-metadata-inventory.png)
+![S3 Metadata Inventory & Pre-Signed URL Expiry](./screenshots/s3-metadata-inventory&presigned-url-expiry.png)
 
-### 3. Bucket Access Policy & Time-Limited Pre-Signed URL Expiration
-
-![Pre-Signed URL Expiry](./screenshots/presigned-url-expiry.png)
-
-### 4. Local S3 Emulator Server HTTP Access & Policy Logs
+### 3. Local S3 Emulator Server HTTP Access & Policy Logs
 
 ![S3 Emulator Server Logs](./screenshots/s3-emulator-server-logs.png)
 
-### 5. Public GitHub Repository Structure
+### 4. Public GitHub Repository Structure
 
 ![GitHub Repository Structure](./screenshots/github-repo-structure.png)
 
@@ -165,9 +161,3 @@ The automated verification suite validates all acceptance criteria across three 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-### 4. Local S3 Emulator Server HTTP Access & Policy Logs
-![S3 Emulator Server Logs](./screenshots/s3-emulator-server-logs.png)
-
-### 5. Public GitHub Repository Structure
-![GitHub Repository Structure](./screenshots/github-repo-structure.png)
